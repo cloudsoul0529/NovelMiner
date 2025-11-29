@@ -1,4 +1,4 @@
-package miner;
+package org.miner.util;
 
 public final class GetData {
     //统计角色出现次数

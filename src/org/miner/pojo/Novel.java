@@ -1,4 +1,4 @@
-package miner.pojo;
+package org.miner.pojo;
 
 import java.util.ArrayList;
 import java.util.List;

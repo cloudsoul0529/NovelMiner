@@ -1,4 +1,4 @@
-package miner.pojo;
+package org.miner.pojo;
 
 import java.util.HashSet;
 import java.util.Set;
